@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Animesh Jain</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | Java & Python | Madhya Pradesh, India 🚀</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/animesh-jain06" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AnimeshJain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnimeshJ004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AnimeshJ004-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://contract-risk-analyzer-theta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Project-ContractRiskAnalyzer-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 🧑‍💻 About Me
 
 🎓 Pursuing AI/ML at Babulal Tarabai Institution of Research and Technology, Sagar, MP
