@@ -57,6 +57,8 @@ Classic memory-sequence game — follow the pattern and see how far you can go!
 Stack: HTML · CSS · JavaScript
 Key Features: Progressive difficulty · Sound feedback · Score tracking
 
+🔗(https://simon-game-delta-weld.vercel.app/)
+
 
 ✅ Todo App
 
