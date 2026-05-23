@@ -29,6 +29,7 @@ An AI-powered legal assistant that analyzes PDF contracts, detects risks, and pr
 
 Stack: React (Vite) · Spring Boot 3 · MongoDB · Tesseract OCR · Gemini/Groq AI · JWT Auth · Google OAuth2
 Key Features: AI risk analysis · Admin dashboard · Rate limiting · Interactive AI chat
+
 🔗(https://contract-risk-analyzer-theta.vercel.app/)
 
 
@@ -47,7 +48,7 @@ Real-time weather data for any city worldwide using the OpenWeather API.
 Stack: HTML · CSS · JavaScript · OpenWeather API
 Key Features: City search · Live weather · Responsive design
 
-🔗 (https://weatherapp-e30l.onrender.com)
+🔗 (https://weather-app-seven-henna-76.vercel.app/)
 
 🎮 Simon Game
 
