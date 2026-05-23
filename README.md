@@ -46,6 +46,7 @@ Real-time weather data for any city worldwide using the OpenWeather API.
 
 Stack: HTML · CSS · JavaScript · OpenWeather API
 Key Features: City search · Live weather · Responsive design
+
 🔗 (https://weatherapp-e30l.onrender.com)
 
 🎮 Simon Game
