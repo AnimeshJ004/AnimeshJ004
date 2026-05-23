@@ -41,6 +41,12 @@ Stack: JavaScript · Node.ejs · CSS · Express.js · MongoDB
 Key Features: Intuitive UI · Hotel comparison · Destination explorer
 🔗(https://wanderland-indol.vercel.app/)
 
+🤖 Iris AI Assistant 
+
+A sleek, serverless AI assistant web app powered by Groq (Llama 3). Features voice interaction, real-time streaming responses, instant local commands, and persistent chat history. Built with Flask & vanilla JS, deployed on Vercel.
+🔗(https://iris-lyart-pi.vercel.app/)
+
+
 🌦️ Weather App
 
 Real-time weather data for any city worldwide using the OpenWeather API.
