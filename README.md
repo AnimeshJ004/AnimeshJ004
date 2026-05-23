@@ -103,7 +103,7 @@ I'm always open to collaborating on interesting projects, discussing AI/ML ideas
 <p align="center">
   <a href="https://www.linkedin.com/in/animesh-jain06"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   &nbsp;
-  <a href="mailto:animeshjain006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:animeshj425@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
