@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Jain</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | Java & Python | Madhya Pradesh, India 🚀</h3>
+<h3 align="center"> Full-Stack Developer | Java & Python | Madhya Pradesh, India 🚀</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/animesh-jain06" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AnimeshJain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -88,3 +88,25 @@ Stack: JavaScript · HTML · CSS
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnimeshJ004&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshJ004&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnimeshJ004&theme=tokyonight&hide_border=true" />
+</p>
+
+🤝 Let's Connect
+I'm always open to collaborating on interesting projects, discussing AI/ML ideas, or just talking tech!
+<p align="center">
+  <a href="https://www.linkedin.com/in/animesh-jain06"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  &nbsp;
+  <a href="mailto:animeshjain006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnimeshJ004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
