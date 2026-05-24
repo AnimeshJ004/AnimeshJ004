@@ -23,7 +23,7 @@
 
 
 🚀 Featured Projects
-📄 Contract Risk Analyzer — Live on Vercel
+📄 Veridox — Live on Vercel
 
 An AI-powered legal assistant that analyzes PDF contracts, detects risks, and provides instant summaries using LLMs.
 
