@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-AnimeshJ004-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://contract-risk-analyzer-theta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Project-ContractRiskAnalyzer-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Project-Veridox-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
